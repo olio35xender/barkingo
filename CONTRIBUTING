@@ -1,0 +1,23 @@
+# Contribution Guidelines for Barkingo
+
+Thank you for your interest in contributing to Barkingo! We welcome community contributions to make pet expense tracking easier for everyone. By participating in this project, you agree to abide by our code of conduct and contribution workflows.
+
+---
+
+## Code of Conduct
+
+We are committed to providing a welcoming, diverse, and harassment-free environment. 
+* **Be Respectful:** Treat all contributors with kindness and professional respect.
+* **Inclusivity:** Welcome questions and feedback from developers of all skill levels.
+* **Zero Tolerance:** Harassment, discriminatory language, and predatory behavior will result in a permanent ban from the repository.
+
+---
+
+## How to Contribute
+
+To ensure a smooth review process, please follow these steps:
+
+1. **Fork the Repository:** Click the "Fork" button at the top right of the Barkingo repository page to create a copy on your personal GitHub account.
+2. **Create a Feature Branch:** Always create a descriptive branch for your isolated changes:
+   ```bash
+   git checkout -b feature/amazing-new-feature
